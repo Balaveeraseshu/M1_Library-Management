@@ -11,3 +11,6 @@
 
 
 [![Bulid CI - windows](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Windows.yml/badge.svg)](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Windows.yml)
+
+
+[![Build_CI - Linux](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Linux.yml/badge.svg)](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Linux.yml)
