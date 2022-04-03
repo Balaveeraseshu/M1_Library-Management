@@ -7,4 +7,4 @@
 
 [![Code Quality - Cppcheck](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/c-cpp.yml)
 
-[![Code Quality - Cppcheck](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/c-cpp.yml)
+[![Analysis](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Balaveeraseshu/M1_Library-Management/actions/workflows/Analysis.yml)
